@@ -59,25 +59,6 @@ print(eu.sobre())
 
 ---
 
-## 💼 Experiência no Mercado de Trabalho
-
-<br>
-
-[**Estagiário — Engenharia**](https://www.linkedin.com/in/matheus-cabral-da-silva-699a0b286/) \
-Costao do Santinho \
-dez 2024 – mar 2025 · 4 meses \
-Serviços: `Microsoft Excel` `Suporte técnico`
-
-<br>
-
-[**Jovem Aprendiz**](https://www.linkedin.com/in/matheus-cabral-da-silva-699a0b286/) \
-Costao do Santinho \
-jul 2023 – nov 2024 · 1 ano e 5 meses \
-Serviços: `Atendimento ao cliente` `Suporte administrativo` `Pacote Office`
-
-<br>
-
----
 
 ## 🎓 Formação Acadêmica
 
