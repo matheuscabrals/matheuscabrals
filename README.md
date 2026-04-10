@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil!+;Data+Analytics+%7C+Data+Engineering+📊;SQL+%7C+Python+%7C+C%23+%7C+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil!+;Data+Engineering+%7C+&+IA+📊;SQL+%7C+Python+%7C+C%23+%7C+JavaScript)](https://git.io/typing-svg)
 
 ---
 
